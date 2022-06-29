@@ -2,7 +2,7 @@
 
 This final project is using PySpark for temporary data
 
-You can acess the video of the explanation in [here](https://youtu.be/9ItHo_iiYXA) 
+You can access the video of the explanation in [here](https://youtu.be/9ItHo_iiYXA) 
 
 Final Project by Meuti Zari - 1941720088
 
